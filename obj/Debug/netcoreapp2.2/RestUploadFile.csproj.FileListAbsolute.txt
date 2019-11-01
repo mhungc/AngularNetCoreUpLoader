@@ -1,0 +1,14 @@
+C:\Repositories\RestNetCoreUpload\RestUploadFile\bin\Debug\netcoreapp2.2\RestUploadFile.deps.json
+C:\Repositories\RestNetCoreUpload\RestUploadFile\bin\Debug\netcoreapp2.2\RestUploadFile.runtimeconfig.json
+C:\Repositories\RestNetCoreUpload\RestUploadFile\bin\Debug\netcoreapp2.2\RestUploadFile.runtimeconfig.dev.json
+C:\Repositories\RestNetCoreUpload\RestUploadFile\bin\Debug\netcoreapp2.2\RestUploadFile.dll
+C:\Repositories\RestNetCoreUpload\RestUploadFile\bin\Debug\netcoreapp2.2\RestUploadFile.pdb
+C:\Repositories\RestNetCoreUpload\RestUploadFile\obj\Debug\netcoreapp2.2\RestUploadFile.csproj.CoreCompileInputs.cache
+C:\Repositories\RestNetCoreUpload\RestUploadFile\obj\Debug\netcoreapp2.2\RestUploadFile.RazorAssemblyInfo.cache
+C:\Repositories\RestNetCoreUpload\RestUploadFile\obj\Debug\netcoreapp2.2\RestUploadFile.RazorAssemblyInfo.cs
+C:\Repositories\RestNetCoreUpload\RestUploadFile\obj\Debug\netcoreapp2.2\RestUploadFile.AssemblyInfoInputs.cache
+C:\Repositories\RestNetCoreUpload\RestUploadFile\obj\Debug\netcoreapp2.2\RestUploadFile.AssemblyInfo.cs
+C:\Repositories\RestNetCoreUpload\RestUploadFile\obj\Debug\netcoreapp2.2\RestUploadFile.RazorTargetAssemblyInfo.cache
+C:\Repositories\RestNetCoreUpload\RestUploadFile\obj\Debug\netcoreapp2.2\RestUploadFile.dll
+C:\Repositories\RestNetCoreUpload\RestUploadFile\obj\Debug\netcoreapp2.2\RestUploadFile.pdb
+C:\Repositories\RestNetCoreUpload\RestUploadFile\obj\Debug\netcoreapp2.2\RestUploadFile.csprojAssemblyReference.cache
